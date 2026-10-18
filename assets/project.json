@@ -1,0 +1,14 @@
+{
+  "project_id": "replace-me",
+  "research_question": "",
+  "status": "draft",
+  "updated_utc": "",
+  "spatial_context": {
+    "crs": "",
+    "horizontal_domain": "",
+    "vertical_datum": "",
+    "depth_positive": "",
+    "units": ""
+  },
+  "datasets": []
+}

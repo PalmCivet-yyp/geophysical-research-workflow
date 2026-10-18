@@ -1,0 +1,16 @@
+{
+  "demo_type": "illustrative_1D_gaussian_blur_not_physical_forward_model",
+  "data_origin": "synthetic_only",
+  "seed": 137,
+  "x_domain_arbitrary_units": [
+    -4,
+    4
+  ],
+  "grid_interval_arbitrary_units": 0.1,
+  "blur_sigma_arbitrary_units": 1.0,
+  "random_noise_sigma_arbitrary_units": 0.02,
+  "rms_sharp_to_synthetic_observation": 0.02024773473782952,
+  "rms_ramp_to_synthetic_observation": 0.04606626300141051,
+  "scientific_decision": "NOT_ASSESSED",
+  "warning": "Not a gravity calculation, inversion, preregistered recovery benchmark, or evidence of any real geological boundary."
+}
